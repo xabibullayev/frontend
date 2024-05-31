@@ -1,0 +1,40 @@
+table {
+    border: 5px solid yellow;
+}
+
+.jadval {
+    margin: 10px;
+    border: 2px solid blue;
+    border-radius: 30px;
+    margin: 30px;
+    padding: 20px;
+    background-color: green;
+    color: yellow;
+    font-size: 20px;
+}
+
+td {
+    vertical-align: canter;
+    background-color: red;
+}
+
+body {
+    background-color: cyan;
+    background-image: url(IT\ PARK\ -\ URGANCH1.jpg);
+}
+
+tr {
+    height: 40px;
+}
+
+.royhat {
+    background-color: red;
+    border: 5px solid yellow;
+    border-radius: 50px;
+    margin: 20px;
+    padding: 30px;
+    color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}::-ms-backdrop 
+        
+        
